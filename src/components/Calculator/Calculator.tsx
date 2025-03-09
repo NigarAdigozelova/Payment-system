@@ -156,7 +156,7 @@ const Calculator: React.FC = () => {
           data-test-id="venueSlug"
           value={venueSlug}
           onChange={(e) => setVenueSlug(e.target.value)}
-          placeholder="Enter venue slug"
+          placeholder="home-assignment-venue-tallinn"
         />
       </div>
       <div className="input-group">
